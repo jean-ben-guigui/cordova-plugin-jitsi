@@ -1,5 +1,1 @@
-Cordova Plugin Template
-======
-
-This is a simple starting point for building a Cordova plugin on iOS and Android.
-"# cordova-plugin-jitsi" 
+A plugin to use Jitsi within a cordova App
